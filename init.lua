@@ -1,0 +1,2 @@
+require("aman")
+print("Hello")
