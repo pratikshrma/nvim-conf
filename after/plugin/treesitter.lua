@@ -1,0 +1,3 @@
+-- you will have to compile treesitter with clang and than add the treesitter conf file
+-- see yaa
+-- 
