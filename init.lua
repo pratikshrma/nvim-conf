@@ -1,2 +1,1 @@
 require("aman")
-print("Hello")
